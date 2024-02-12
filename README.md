@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 # Welcome to My GitHub!
 
 I'm a passionate learner fascinated by the potential of AI and Python programming. Here, you'll discover a variety of projects, from facial recognition to atomatic bleeding regions detection. My aim is to learn and evolve, while sharing my journey with fellow enthusiasts.
